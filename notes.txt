@@ -1,0 +1,22 @@
+Hello World
+HYPERTENSION: 5 KEY POINTS
+
+1. Definition: Hypertension (high blood pressure) is defined as blood pressure consistently above 130/80 mmHg. It's often called the "silent killer" as it typically has no symptoms but significantly increases risk of heart disease, stroke, and kidney damage.
+
+2. Risk Factors: Major risk factors include family history, age (risk increases with age), obesity, sedentary lifestyle, high sodium diet, excessive alcohol consumption, smoking, stress, and certain chronic conditions like diabetes.
+
+3. Prevention/Management: Lifestyle modifications are crucial - maintaining healthy weight, regular physical activity (150 minutes/week), limiting sodium intake (<2300mg/day), following DASH diet (rich in fruits, vegetables, whole grains, lean proteins), limiting alcohol, avoiding tobacco, and managing stress.
+
+4. Medication: When lifestyle changes aren't sufficient, medications may include diuretics, ACE inhibitors, ARBs, calcium channel blockers, and beta-blockers, often used in combination for optimal control.
+
+5. Monitoring: Regular blood pressure monitoring is essential for diagnosis and management. Home monitoring provides valuable data, and regular healthcare provider visits help adjust treatment plans as needed.
+NOTE SUMMARY:
+
+1. Initial test note: "Hello World"
+
+2. Hypertension information covering:
+   - Definition: Blood pressure >130/80 mmHg; "silent killer" with no symptoms
+   - Risk factors: Family history, age, obesity, lifestyle factors, diet, chronic conditions
+   - Prevention strategies: Weight management, exercise (150 min/week), low sodium diet, DASH diet, limited alcohol
+   - Medication options: Diuretics, ACE inhibitors, ARBs, calcium channel blockers, beta-blockers
+   - Monitoring importance: Regular BP checks and healthcare visits
