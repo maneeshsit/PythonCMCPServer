@@ -1,0 +1,26 @@
+{
+  "mcpServers": {
+    "Demo": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--with",
+        "mcp[cli]",
+        "mcp",
+        "run",
+        "C:\\Users\\User\\Desktop\\MCPServerTutorial\\main.py"
+      ]
+    },
+    "AI Sticky Notes": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--with",
+        "mcp[cli]",
+        "mcp",
+        "run",
+        "C:\\PythonCMCPServer\\main.py"
+      ]
+    }
+  }
+}
